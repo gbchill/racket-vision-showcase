@@ -32,8 +32,6 @@ This project is currently in early development. The repository showcases the con
 ## Contact
 
 For questions or collaboration inquiries, please contact:
-- Email: your-email@example.com
+- Email: georgebadulescu123@gmail.com
 
----
 
-© 2025 RacketVision. All Rights Reserved.
