@@ -2,8 +2,6 @@
 
 A modern AI-powered tennis coaching platform that analyzes your tennis shots to improve technique.
 
-![RacketVision Banner](https://via.placeholder.com/800x400?text=RacketVision)
-
 ## About The Project
 
 RacketVision uses computer vision and AI to analyze tennis forehand technique from uploaded videos. The system identifies key body positions during your swing and provides actionable feedback to help improve your form.
