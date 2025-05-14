@@ -27,7 +27,7 @@ This project is currently in early development. The repository showcases the con
 
 ## Screenshots
 
-![Analysis Screen](racket-vision-showcase/showcase.png)
+![Analysis Screen](showcase.png)
 
 ## Contact
 
